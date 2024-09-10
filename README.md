@@ -21,3 +21,5 @@ Este ejercicio está diseñado para reforzar tus conocimientos sobre Node.js y e
 1. Asegúrate de tener Node.js instalado en tu máquina.
 2. Instala las dependencias necesarias con `npm install`.
 3. Corre el archivo `ejercicio32.js` con el comando `node ejercicio32.js`.
+
+Made with 💖 and ☕ by profe Martin.
